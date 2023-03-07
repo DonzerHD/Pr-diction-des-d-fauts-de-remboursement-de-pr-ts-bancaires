@@ -17,4 +17,4 @@ Nous utiliserons Python, Django, et les bibliothèques de machine learning telle
 - Entraîner un modèle de classification supervisée pour prédire si un client fera défaut sur son prêt
 - Évaluer les performances du modèle à l'aide de métriques telles que la précision, le rappel et la F1-score
 - Intégrer le modèle entraîné dans une application Django pour permettre aux utilisateurs de saisir des informations sur un client et de prédire s'il fera défaut sur son prêt ou non.
-- Je vous conseille également de vous familiariser avec la notion de cross-validation pour améliorer la performance de votre modèle et de travailler sur la - visualisation de vos résultats.
+- Je vous conseille également de vous familiariser avec la notion de cross-validation pour améliorer la performance de votre modèle et de travailler sur la - visualisation de vos résultats. 
